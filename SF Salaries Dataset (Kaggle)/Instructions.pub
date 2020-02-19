@@ -1,0 +1,13 @@
+The following Data Set is taken from Kaggle.
+
+Name: SF Salaries
+
+Information:
+1. It holds salary information of various employees from different backgrounds.
+2. The salaries are structured as base pay, allowances and bonus pay
+
+Output:
+We will try to explore the data and perform basic pandas functions to understand the data better.
+We would also try and answer some questions.
+
+Credits: Jose Portilla for his Data Science course.
